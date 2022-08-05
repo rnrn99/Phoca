@@ -48,6 +48,9 @@
 
 ## 3. 기능
 
+### 👀 페이지 구성소개
+- [페이지 구성도](https://docs.google.com/presentation/d/1QL8OPu8S15w3KxqbH98gFQPMWTYT4LKqY2QzRIV98rQ/edit?usp=sharing)
+
 ### 💬 프로젝트 전체 기능 정리
 
 <details>
@@ -225,3 +228,6 @@
 확장성있는 코드를 위해 버튼과 해당 버튼의 페이지 카드 요소들 중 key로 사용될 만한 값을 살펴보았고 그 값을 페이지 카드에 들어가는 이미지의 alt 값으로 설정했습니다.
 그리고 이 alt 값을 key로, 나머지 값을 value로 가지는 object를 선언하였고 ```Object.entries()```를 이용해 object의 모든 값을 살펴보았습니다.
 또한 이 key 값을 버튼 클릭 핸들러에 넘겨 클릭한 버튼에 대한 분기처리를 실행할 수 있었습니다.
+
+## 7. 관련 링크
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=rnrn99&slug=Project-Phoca-프로젝트-정리)](https://velog.io/@rnrn99/Project-Phoca-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%95%EB%A6%AC)
