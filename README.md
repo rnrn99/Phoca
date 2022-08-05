@@ -49,7 +49,7 @@
 ## 3. 기능
 
 ### 👀 페이지 구성소개
-- [페이지 구성도](https://docs.google.com/presentation/d/1QL8OPu8S15w3KxqbH98gFQPMWTYT4LKqY2QzRIV98rQ/edit?usp=sharing)
+- [페이지 구성도](https://drive.google.com/file/d/121NNffACg7e6RqwkMQBOxWQ3kALRPMyM/view?usp=sharing)
 
 ### 💬 프로젝트 전체 기능 정리
 
